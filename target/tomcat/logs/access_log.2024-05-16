@@ -1,5 +1,0 @@
-0:0:0:0:0:0:0:1 - - [16/May/2024:17:07:59 +0700] "GET /bootcamp-java-webapp HTTP/1.1" 302 - http-bio-8080-exec-1 0
-0:0:0:0:0:0:0:1 - - [16/May/2024:17:07:59 +0700] "GET /bootcamp-java-webapp/ HTTP/1.1" 200 52 http-bio-8080-exec-2 579
-0:0:0:0:0:0:0:1 - - [16/May/2024:17:07:59 +0700] "GET /apple-touch-icon-precomposed.png HTTP/1.1" 404 - http-bio-8080-exec-4 0
-0:0:0:0:0:0:0:1 - - [16/May/2024:17:07:59 +0700] "GET /apple-touch-icon.png HTTP/1.1" 404 - http-bio-8080-exec-5 0
-0:0:0:0:0:0:0:1 - - [16/May/2024:17:08:00 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-3 0

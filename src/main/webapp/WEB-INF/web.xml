@@ -4,4 +4,13 @@
 
 <web-app>
   <display-name>Archetype Created Web Application</display-name>
+  <servlet>
+    <servlet-name>halo-servlet</servlet-name>
+    <servlet-class>com.ihsan.ahmad.belajar.bootcamp.servlet.HaloServlet</servlet-class>
+  </servlet>
+
+  <servlet-mapping>
+    <servlet-name>halo-servlet</servlet-name>
+    <url-pattern>/halo</url-pattern>
+  </servlet-mapping>
 </web-app>
